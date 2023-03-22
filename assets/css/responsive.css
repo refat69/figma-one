@@ -1,0 +1,209 @@
+@media (max-width: 576px) { 
+    
+    .header-wrapper{
+        display: block !important;
+    }
+    .header-containt{
+        display: flex;
+        justify-content: space-between !important;
+    }
+    .header-icon{
+        text-align: center !important;
+    }
+    .header-containt .line::after {
+        left: 258px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+       text-align: center;
+      }
+      .button {
+        margin-left: 180px;
+    }
+    #banner {
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+          url(../images/banner.jpg);
+      }
+      .banner-contant h1 {
+        width: 442px;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 46px;
+      }
+      .banner-contant .button {
+        margin-left: 160px;
+    }
+    .welcome-left h2 {
+        width: 542px;
+        font-weight: 600;
+        font-size: 45px;
+        line-height: 58px;
+        padding-left: 40px;
+    }
+    .welcome-right p {
+        padding-top: 28px;
+        width: 490px;
+        padding-left: 45px;
+    }
+    .image img {
+        width: 100%;
+    }
+    .services-left h1 {
+        padding-top: 42px;
+        font-weight: 600;
+        font-size: 55px;
+        line-height: 96px;
+    }
+    .services-left p {
+        padding-left: 79px;
+    }
+    .services-right {
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+    }
+    .services-right h5 {
+        margin-left: 50px;
+    }
+    .button {
+        margin-left: 53px;
+    }
+    .services-banner {
+        width: 100%;
+    }
+    .services-banner h5 {
+        margin-left: 53px;
+    }
+    .learn-more-left {
+        text-align: center;
+    }
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        --bs-gutter-x: 0;
+    }
+    .blog-main {
+        display: block;
+    }
+    .blog-one {
+        width: 100%;
+        margin-left: 0;
+    }
+    .blog-one h6 {
+        padding-bottom: 35px;
+        width: 433px;
+    }
+    #blog p {
+        text-align: center;
+    }
+    .red-bg-main .button {
+        padding: 27px 10px;
+    }
+    .footer-one , .footer-three , .footer-four{
+        text-align: center;
+    }
+    .last p {
+        padding-left: 63px;
+    }
+ }
+@media (max-width: 768px) { 
+    .header-wrapper{
+        display: block !important;
+    }
+    .header-containt{
+        display: flex;
+        justify-content: space-between !important;
+    }
+    .header-icon{
+        text-align: center !important;
+    }
+    .header-containt .line::after {
+        left: 258px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+       text-align: center;
+      }
+      .button {
+        margin-left: 180px;
+    }
+    #banner {
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+          url(../images/banner.jpg);
+      }
+      .banner-contant h1 {
+        width: 442px;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 46px;
+      }
+      .banner-contant .button {
+        margin-left: 160px;
+    }
+    .welcome-left h2 {
+        width: 542px;
+        font-weight: 600;
+        font-size: 45px;
+        line-height: 58px;
+        padding-left: 40px;
+    }
+    .welcome-right p {
+        padding-top: 28px;
+        width: 490px;
+        padding-left: 45px;
+    }
+    .image img {
+        width: 100%;
+    }
+    .services-left h1 {
+        padding-top: 42px;
+        font-weight: 600;
+        font-size: 55px;
+        line-height: 96px;
+    }
+    .services-left p {
+        padding-left: 79px;
+    }
+    .services-right {
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+    }
+    .services-right h5 {
+        margin-left: 50px;
+    }
+    .button {
+        margin-left: 53px;
+    }
+    .services-banner {
+        width: 100%;
+    }
+    .services-banner h5 {
+        margin-left: 53px;
+    }
+    .learn-more-left {
+        text-align: center;
+    }
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        --bs-gutter-x: 0;
+    }
+    .blog-main {
+        display: block;
+    }
+    .blog-one {
+        width: 100%;
+        margin-left: 0;
+    }
+    .blog-one h6 {
+        padding-bottom: 35px;
+        width: 433px;
+    }
+    #blog p {
+        text-align: center;
+    }
+    .red-bg-main .button {
+        padding: 27px 10px;
+    }
+    .footer-one , .footer-three , .footer-four{
+        text-align: center;
+    }
+    .last p {
+        padding-left: 63px;
+    }
+ }
